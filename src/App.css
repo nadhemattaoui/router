@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.barre{
+  height: 40px;
+  background-color: aqua;
+}
+.nav{
+  padding-top: 5px;
+  list-style:none;
+  margin-left: 900px;
+  margin-right: 80px;
+  display: flex;
+  justify-content: space-between;
+
+ 
+}
+.imgstyle{
+  width:250px ;
+  height: 400px;
+  
+}
+
+.movieList{
+  
+ margin-left:200px;
+ margin-right: 200px;
+ 
+  display: flex;
+  justify-content:space-around
+}
+
+
